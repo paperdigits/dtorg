@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2013-05-28 12:21:15+00:00
@@ -9,6 +10,7 @@ lede: IMG_5490_export2_wide.jpg
 lede_author: <a href="http://www.fourdimensions.eu/">Simon Spannagel</a>
 wordpress_id: 2930
 tags: announcement, darktable release
+---
 
 Dear all,
 

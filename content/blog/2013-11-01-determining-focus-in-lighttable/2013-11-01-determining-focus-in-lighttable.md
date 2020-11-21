@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2013-11-01 16:50:01+00:00
@@ -9,6 +10,7 @@ lede: penguin_wide.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 wordpress_id: 3097
 tags: blog
+---
 
 wouldn't it be great if you could judge sharpness of your images in lighttable mode? this mode is limited to small and medium sized thumbnails of your images, so we can deliver the required speed to browse a lot of them.
 

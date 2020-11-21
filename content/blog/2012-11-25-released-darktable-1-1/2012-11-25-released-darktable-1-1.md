@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2012-11-25 20:17:08+00:00
@@ -8,6 +9,7 @@ title: released darktable 1.1
 wordpress_lede: panda.jpg
 wordpress_id: 2378
 tags: announcement
+---
 
 [https://sourceforge.net/projects/darktable/files/darktable/1.1/darktable-1.1.tar.gz/download](https://sourceforge.net/projects/darktable/files/darktable/1.1/darktable-1.1.tar.gz/download)
 

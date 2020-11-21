@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2017-02-01 10:44:59+00:00
@@ -9,6 +10,7 @@ lede: turtle_wide.jpeg
 lede_author: <a href="https://www.flickr.com/photos/philipphaegi/">Philipp Haegi</a>
 wordpress_id: 4732
 tags: announcement, darktable release
+---
 
 we're proud to announce the third bugfix release for the 2.2 series of darktable, 2.2.3!
 

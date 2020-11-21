@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2012-07-24 09:34:47+00:00
@@ -8,6 +9,7 @@ title: darktable 1.0.5 released
 wordpress_lede: ladybugs.jpg
 wordpress_id: 1890
 tags: announcement, darktable release
+---
 
 It's our pleasure to announce that darktable-1.0.5 has been released. Find the tarball on sf.net:
 

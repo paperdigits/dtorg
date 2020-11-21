@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2012-09-23 22:30:34+00:00
@@ -8,6 +9,7 @@ title: Geotagging in darktable
 wordpress_lede: IMG_6337_export.jpg
 wordpress_id: 2162
 tags: upcoming feature
+---
 
 <figure markdown="span" class="u-pull-left" role="group">
 @![Geotagging module](geotagging_module.jpg)

@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-10-20 15:36:49+00:00
@@ -9,6 +10,7 @@ lede: lede_wide.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 wordpress_id: 3820
 tags: announcement, darktable release
+---
 
 We are happy to announce that darktable 1.6.9 has been released.
 

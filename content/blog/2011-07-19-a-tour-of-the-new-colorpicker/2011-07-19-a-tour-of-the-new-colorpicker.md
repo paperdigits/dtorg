@@ -1,3 +1,4 @@
+---
 author: bieber
 comments: true
 date: 2011-07-19 21:25:12+00:00
@@ -7,6 +8,7 @@ slug: a-tour-of-the-new-colorpicker
 title: A Tour Of The New Colorpicker
 wordpress_id: 432
 tags: GSoC
+---
 
 For my third GSOC task, I’ve replaced darktable’s old bottom-bar colorpicker with a new one one that acts as a module in darktable mode. The new picker adds some features over the old version, which some of you will hopefully find helpful. Specifically, we have four new additions:
 

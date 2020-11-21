@@ -1,3 +1,4 @@
+---
 author: bieber
 comments: true
 date: 2011-06-25 21:15:19+00:00
@@ -7,6 +8,7 @@ slug: darktables-new-keyboard-shortcut-system
 title: darktable’s New Keyboard Shortcut System
 wordpress_id: 420
 tags: GSoC
+---
 
 <figure markdown="span" class="u-pull-left">
 @![Screenshot-darktable-preferences-300x163](Screenshot-darktable-preferences-300x163.png)

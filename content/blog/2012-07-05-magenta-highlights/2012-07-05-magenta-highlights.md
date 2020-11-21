@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2012-07-05 15:51:08+00:00
@@ -8,6 +9,7 @@ title: magenta highlights
 wordpress_lede: highlights.jpg
 wordpress_id: 1828
 tags: blog
+---
 
 false color highlights seem to be an issue frequently, so here's some quick faq about it. alexandre, please excuse all the outward references ;)
 

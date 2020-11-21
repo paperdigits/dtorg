@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2014-02-15 15:56:16+00:00
@@ -8,6 +9,7 @@ title: released darktable 1.4.1
 wordpress_lede: paua.jpg.jpg
 wordpress_id: 3250
 tags: announcement, darktable release
+---
 
 hi all,
 

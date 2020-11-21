@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2012-07-05 14:13:10+00:00
@@ -9,6 +10,7 @@ lede: dtcli_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 1837
 tags: blog, development
+---
 
 Recent builds from git will bring you a new executable, “darktable-cli”. With this tool you can export images using the processing power of darktable on the command line.
 

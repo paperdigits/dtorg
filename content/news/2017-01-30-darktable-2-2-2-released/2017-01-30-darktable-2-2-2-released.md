@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2017-01-30 09:49:52+00:00
@@ -9,6 +10,7 @@ lede: pygmy_chameleon_wide.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 wordpress_id: 4727
 tags: announcement, darktable release
+---
 
 we're proud to announce the second bugfix release for the 2.2 series of darktable, 2.2.2!
 

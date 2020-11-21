@@ -1,3 +1,4 @@
+---
 author: houz
 date: 2018-04-24 12:00:00+00:00
 layout: post
@@ -5,6 +6,7 @@ title: darktable 2.4.3 released
 lede: dancer.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 tags: announcement, darktable release
+---
 
 we’re proud to announce the third bugfix release for the 2.4 series of darktable, 2.4.3!
 

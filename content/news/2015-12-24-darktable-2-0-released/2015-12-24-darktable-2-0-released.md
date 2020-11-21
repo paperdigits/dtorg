@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2015-12-24 10:46:37+00:00
@@ -8,6 +9,7 @@ title: darktable 2.0 released
 wordpress_lede: Christmas_Moon.jpg
 wordpress_id: 3912
 tags: announcement, darktable release
+---
 
 we're proud to finally announce the new feature release of darktable, 2.0!
 

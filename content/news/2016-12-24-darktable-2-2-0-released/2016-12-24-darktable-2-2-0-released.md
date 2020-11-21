@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-12-24 16:48:13+00:00
@@ -8,6 +9,7 @@ title: darktable 2.2.0 released
 wordpress_lede: bee_small.jpg
 wordpress_id: 4648
 tags: announcement, darktable release
+---
 
 we're proud to finally announce the new feature release of darktable, 2.2.0!
 

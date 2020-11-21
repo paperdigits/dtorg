@@ -1,3 +1,4 @@
+---
 author: jo
 date: 2017-11-21 20:21:45+00:00
 layout: post
@@ -6,6 +7,7 @@ title: local laplacian pyramids
 lede: header.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 tags: blog, development, further reading, upcoming feature
+---
 
 # improving contrast with the local laplacian filter
 

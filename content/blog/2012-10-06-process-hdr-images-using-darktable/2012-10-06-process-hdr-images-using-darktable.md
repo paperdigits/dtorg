@@ -1,3 +1,4 @@
+---
 author: Henrik Andersson
 comments: true
 date: 2012-10-06 17:16:03+00:00
@@ -8,6 +9,7 @@ title: Process HDR images using darktable.
 wordpress_lede: img_0001.jpg
 wordpress_id: 2193
 tags: blog, HDR, processing, workflow
+---
 
 ### Introduction
 

@@ -1,3 +1,4 @@
+---
 author: bieber
 comments: true
 date: 2011-05-31 21:34:22+00:00
@@ -7,6 +8,7 @@ slug: libglade-removal-the-first-week
 title: libglade Removal: The First Week
 wordpress_id: 447
 tags: GSoC
+---
 
 I’m now a week into my first task of removing darktable’s dependency on libglade, so here’s a quick look at my progress so far.  In the first week I started out by diving in and figuring out how to instantiate all the widgets I would need, starting with the lowest levels and working my way up.  It took a little while, but with a combination of the Gtk documentation and some guesswork aided by autocomplete I’ve more or less figured out all the function calls that I need to create widgets, modify their states, attach them to containers, and so forth.
 

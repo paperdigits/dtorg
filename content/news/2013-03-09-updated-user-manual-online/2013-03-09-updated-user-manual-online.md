@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2013-03-09 10:54:43+00:00
@@ -7,6 +8,7 @@ slug: updated-user-manual-online
 title: Updated user manual online
 lede: Bildschirmfoto-vom-2013-02-17-232553_wide.png
 wordpress_id: 2736
+---
 
 Dear all,
 

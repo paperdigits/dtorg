@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2012-11-02 02:04:00+00:00
@@ -8,6 +9,7 @@ title: 1.1 release candidate 1
 wordpress_lede: cloud.jpg
 wordpress_id: 2328
 tags: announcement
+---
 
 as commits are easing down a little lately it seems appropriate to push out the first release candidate of the new version:
 

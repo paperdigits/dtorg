@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-11-23 15:01:27+00:00
@@ -9,6 +10,7 @@ lede: castle2_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4610
 tags: announcement, darktable release
+---
 
 we're proud to announce the second release candidate of darktable 2.2.0, with some fixes over the previous release candidate. the most important one might be bringing back read support for very old xmp files (~4 years).
 

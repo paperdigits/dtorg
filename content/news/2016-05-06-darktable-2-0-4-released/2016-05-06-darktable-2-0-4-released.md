@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-05-06 11:15:19+00:00
@@ -9,6 +10,7 @@ lede: mairi_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4059
 tags: announcement, darktable release
+---
 
 we're proud to announce the fourth bugfix release for the 2.0 series of darktable, 2.0.4!
 

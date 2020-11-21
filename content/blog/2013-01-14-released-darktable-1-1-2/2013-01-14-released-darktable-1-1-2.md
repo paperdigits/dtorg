@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2013-01-14 23:24:16+00:00
@@ -8,6 +9,7 @@ title: Released darktable 1.1.2
 wordpress_lede: flamingos.png
 wordpress_id: 2671
 tags: announcement, darktable release
+---
 
 Dear all,
 

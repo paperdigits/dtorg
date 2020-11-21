@@ -1,3 +1,4 @@
+---
 author: upegelow
 comments: true
 date: 2012-03-02 20:29:00+00:00
@@ -8,6 +9,7 @@ title: darktable and OpenCL (updated)
 wordpress_lede: ocl-menu-thumb.jpeg
 wordpress_id: 1279
 tags: blog, development, darktable, OpenCL, tutorial
+---
 
 Many readers will have already heard about GPU processing and the fact that darktable can make use of OpenCL to improve performance. As we still lack a detailed documentation of that topic, please find here a few explanations and howtos.
 

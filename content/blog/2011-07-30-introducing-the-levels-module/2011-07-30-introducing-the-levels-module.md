@@ -1,3 +1,4 @@
+---
 author: bieber
 comments: true
 date: 2011-07-30 21:22:56+00:00
@@ -7,6 +8,7 @@ slug: introducing-the-levels-module
 title: Introducing The Levels Module
 wordpress_id: 426
 tags: GSoC
+---
 
 <figure markdown="span" class="u-pull-left">
 @![Screenshot](Screenshot.png)

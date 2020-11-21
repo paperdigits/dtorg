@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2011-03-26 22:11:29+00:00
@@ -7,6 +8,7 @@ slug: hello-world-yet-another-new-blog'
 title: “Hello, world!”&nbsp;– yet another new blog?
 wordpress_id: 464
 tags: development
+---
 
 
 

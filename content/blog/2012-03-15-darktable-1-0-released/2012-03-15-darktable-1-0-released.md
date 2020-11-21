@@ -1,3 +1,4 @@
+---
 author: jcsogo
 comments: true
 date: 2012-03-15 07:53:25+00:00
@@ -8,6 +9,7 @@ title: darktable 1.0 released
 wordpress_lede: 4.jpg
 wordpress_id: 1396
 tags: announcement, darktable release, darktable, release
+---
 
 It is done, 1.0 is out. I sent out most of the new features with the announcement for 1.0rc2 a few weeks ago already, but for completeness, here it is again:
 

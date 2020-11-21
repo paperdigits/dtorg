@@ -1,3 +1,4 @@
+---
 author: houz
 date: 2018-01-22 15:00:00+00:00
 layout: post
@@ -5,6 +6,7 @@ title: darktable 2.4.1 released
 lede: buffalo.jpg
 lede_author: <a href="https://www.flickr.com/photos/philipphaegi/">Philipp Haegi</a>
 tags: announcement, darktable release
+---
 
 we’re proud to announce the first bugfix release for the 2.4 series of darktable, 2.4.1!
 

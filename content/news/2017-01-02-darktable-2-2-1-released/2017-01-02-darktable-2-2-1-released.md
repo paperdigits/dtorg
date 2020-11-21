@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2017-01-02 16:56:56+00:00
@@ -8,6 +9,7 @@ title: darktable 2.2.1 released
 wordpress_lede: owehar.png
 wordpress_id: 4664
 tags: announcement, darktable release
+---
 
 we're proud to announce the first bugfix release for the 2.2 series of darktable, 2.2.1!
 

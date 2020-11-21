@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-03-07 13:02:15+00:00
@@ -9,6 +10,7 @@ lede: honda_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3967
 tags: announcement, darktable release
+---
 
 we're proud to announce the second bugfix release for the 2.0 series of darktable, 2.0.2!
 

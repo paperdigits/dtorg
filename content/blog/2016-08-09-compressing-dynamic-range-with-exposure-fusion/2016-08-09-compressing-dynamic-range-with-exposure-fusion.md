@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2016-08-09 18:14:45+00:00
@@ -9,6 +10,7 @@ lede: lede_wide.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 wordpress_id: 4181
 tags: blog, development, further reading, upcoming feature
+---
 
 modern sensor capture an astonishing dynamic range, namely some sony sensors or canon with [magic lantern’s dual iso feature](https://www.magiclantern.fm/forum/?topic=7139.0).
 

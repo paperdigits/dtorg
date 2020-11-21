@@ -1,3 +1,4 @@
+---
 author: pmjdebruijn
 comments: true
 date: 2013-05-10 17:47:54+00:00
@@ -8,6 +9,7 @@ title: Display color management in darktable
 wordpress_lede: lego_doctor.jpg
 wordpress_id: 2908
 tags: blog
+---
 
 ## The general picture on the modern Linux desktop
 

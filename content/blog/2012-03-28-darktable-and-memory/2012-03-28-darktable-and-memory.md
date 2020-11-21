@@ -1,3 +1,4 @@
+---
 author: upegelow
 comments: true
 date: 2012-03-28 16:11:48+00:00
@@ -8,6 +9,7 @@ title: darktable and Memory
 lede: skull-thumb_wide.png
 wordpress_id: 1425
 tags: blog, 32-bit, 64-bit, bugfixes, memory, skull, tutorial
+---
 
 ## or “How to drive away the evil skull”
 

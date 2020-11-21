@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-11-24 11:31:33+00:00
@@ -9,6 +10,7 @@ lede: castle3_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4616
 tags: announcement
+---
 
 This is a call for all our translators, now is the time to bring your .po file in the master branch up to date. We will not ship any translation that is not relatively complete, the exact threshold is still to be determined.
 

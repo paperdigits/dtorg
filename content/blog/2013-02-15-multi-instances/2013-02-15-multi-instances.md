@@ -1,3 +1,4 @@
+---
 author: alicvb
 comments: true
 date: 2013-02-15 20:43:45+00:00
@@ -8,6 +9,7 @@ title: multi-instances
 wordpress_lede: mi_screen_gnd.jpg
 wordpress_id: 2752
 tags: blog, development, upcoming feature
+---
 
 One of the upcoming new feature in darktable is the ability to use the same development module several times. By applying the same module multiple times and combining them with blendif it is possible to do some effects that could not be achieved previously without using external tools like the gimp.
 

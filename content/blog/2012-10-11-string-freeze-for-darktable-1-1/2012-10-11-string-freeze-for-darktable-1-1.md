@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2012-10-11 22:14:48+00:00
@@ -8,6 +9,7 @@ title: String freeze for darktable 1.1
 wordpress_lede: IMG_5206_export.jpg
 wordpress_id: 2279
 tags: announcement
+---
 
 Yes.
 

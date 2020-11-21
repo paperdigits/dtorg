@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-12-16 18:26:23+00:00
@@ -9,6 +10,7 @@ lede: sail_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3903
 tags: announcement, darktable release
+---
 
 we're proud to announce the fourth and hopefully last release candidate in the new feature release of darktable, 2.0~rc4.
 

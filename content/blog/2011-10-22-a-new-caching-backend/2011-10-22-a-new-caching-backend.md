@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2011-10-22 06:31:42+00:00
@@ -8,6 +9,7 @@ title: a new caching backend
 wordpress_lede: cache.jpg
 wordpress_id: 774
 tags: blog, development
+---
 
 since i probably tend to make this more technical than any reader would like to, here's the take home message:
 

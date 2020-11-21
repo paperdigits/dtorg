@@ -1,3 +1,4 @@
+---
 author: houz
 date: 2017-08-30 18:11:00+00:00
 layout: post
@@ -8,6 +9,7 @@ lede: horse_in_stable_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4788
 tags: announcement, darktable release
+---
 
 A long time ago there was [a post]({filename}/blog/2011-07-17-that-other-os/2011-07-17-that-other-os.md) about why we don't have a Windows port. While I still stand by what I wrote six years ago, the times they are a-changin'.
 

@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-07-30 21:55:00+00:00
@@ -9,6 +10,7 @@ lede: dt-2_wide.jpg
 lede_author: <a href="https://tatica.org/en/">Tatica Leandro</a>
 wordpress_id: 3745
 tags: announcement, darktable release
+---
 
 We are happy to announce that darktable 1.6.8 has been released.
 

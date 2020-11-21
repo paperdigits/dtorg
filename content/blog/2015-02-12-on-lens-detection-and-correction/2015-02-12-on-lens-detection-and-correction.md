@@ -1,3 +1,4 @@
+---
 author: pmjdebruijn
 comments: true
 date: 2015-02-12 20:10:37+00:00
@@ -9,6 +10,7 @@ lede: lens_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3543
 tags: blog
+---
 
 darktable (and some other projects, like for example ufraw) don't do any real lens detection or correction by itself. We depend on two libraries which in most cases are provided by the Linux distribution you're using.
 

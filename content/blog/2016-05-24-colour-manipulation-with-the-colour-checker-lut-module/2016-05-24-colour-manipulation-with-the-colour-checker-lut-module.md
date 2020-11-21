@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2016-05-24 13:49:13+00:00
@@ -8,6 +9,7 @@ title: colour manipulation with the colour checker lut module
 wordpress_lede: teaser.jpg
 wordpress_id: 4064
 tags: blog, development, further reading, upcoming feature
+---
 
 
 **[update 2016/07/31: there was a section about intermediate export to csv and manually changing that file. this is no longer needed, exporting the style directly from darktable-chart is fine now.]**

@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2013-12-02 09:50:21+00:00
@@ -8,6 +9,7 @@ title: darktable 1.4 release candidate
 wordpress_lede: oasis.png
 wordpress_id: 3133
 tags: announcement, darktable release
+---
 
 We just packaged darktable 1.4rc1 for more testing before releasing 1.4 proper in a few weeks. We've got tarballs,
 

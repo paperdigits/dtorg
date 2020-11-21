@@ -1,3 +1,4 @@
+---
 author: pascalobry
 comments: true
 date: 2016-04-03 08:09:43+00:00
@@ -8,6 +9,7 @@ title: Liquify, liquify?
 wordpress_lede: liquify-1.png
 wordpress_id: 4038
 tags: blog, upcoming feature
+---
 
 Most modules in darktable are working on changing pixels color, lightness, etc. Few modules are moving pixels and when they do they are doing it in a very constraint way like to rotate, fix the lens' distortions or remove spots.
 

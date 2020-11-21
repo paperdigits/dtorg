@@ -1,3 +1,4 @@
+---
 author: houz
 date: 2017-06-02 06:55:00+00:00
 layout: post
@@ -8,6 +9,7 @@ lede: train_station_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4777
 tags: announcement, darktable release
+---
 
 we're proud to announce the fifth bugfix release for the 2.2 series of darktable, 2.2.5!
 

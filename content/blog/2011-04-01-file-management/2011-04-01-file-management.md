@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2011-04-01 22:06:55+00:00
@@ -7,6 +8,7 @@ slug: file-management
 title: File management
 wordpress_id: 453
 tags: development
+---
 
 Whoever has followed the mailing lists or IRC has seen remarks that darktable lacks a feature complete file manager. Currently we only have a button which lets the user delete files from disk, but there is no way to move them, copy them, rename them, … Every time someone has shown up to suggest something beyond that we made clear that “darktable is not a file manager”. We even have a [FAQ entry](https://sourceforge.net/apps/trac/darktable/wiki/FAQ) about that.
 

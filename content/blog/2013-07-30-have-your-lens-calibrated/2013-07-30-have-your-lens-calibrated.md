@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2013-07-30 11:53:16+00:00
@@ -8,6 +9,7 @@ title: have your lens calibrated!
 wordpress_lede: lens.jpg
 wordpress_id: 2984
 tags: announcement, website
+---
 
 just a quick plug for torsten's great new service which allows you to calibrate your lens for lensfun. this will enable you to use darktable's lens correction module with your lens if it hasn't been calibrated by others for you yet.
 

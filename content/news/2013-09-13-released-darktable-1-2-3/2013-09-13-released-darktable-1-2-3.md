@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2013-09-13 12:19:52+00:00
@@ -9,6 +10,7 @@ lede: ginko_01_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3014
 tags: darktable release
+---
 
 Dear all,
 

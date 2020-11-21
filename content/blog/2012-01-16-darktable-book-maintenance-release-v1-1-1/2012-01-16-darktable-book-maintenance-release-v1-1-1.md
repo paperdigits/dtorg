@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2012-01-16 09:56:28+00:00
@@ -8,6 +9,7 @@ title: darktable Book Maintenance Release (v1.1.1)
 wordpress_lede: img_0001_30.jpg
 wordpress_id: 970
 tags: announcement, book, darktable, release
+---
 
 Stefano Fornari has just released a new version of the book **Digital photo development with darktable**.
 

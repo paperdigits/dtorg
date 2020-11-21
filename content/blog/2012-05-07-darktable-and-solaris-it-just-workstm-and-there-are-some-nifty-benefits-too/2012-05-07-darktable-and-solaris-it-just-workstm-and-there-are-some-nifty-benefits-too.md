@@ -1,3 +1,4 @@
+---
 author: McBofh
 comments: true
 date: 2012-05-07 23:57:08+00:00
@@ -8,6 +9,7 @@ title: darktable and Solaris: It Just Works™ ... and there are some nifty bene
 wordpress_lede: supermoon-ss.jpg
 wordpress_id: 1475
 tags: blog, DTrace, port, Solaris
+---
 
 I'm the self-appointed maintainer of darktable on [Solaris](https://www.oracle.com/us/products/servers-storage/solaris/solaris11/overview/index.html), which is a fairly easy gig to keep on top of.
 

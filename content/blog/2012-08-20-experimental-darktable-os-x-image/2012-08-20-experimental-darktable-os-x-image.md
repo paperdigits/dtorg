@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2012-08-20 21:33:34+00:00
@@ -8,6 +9,7 @@ title: Experimental darktable OS X image
 wordpress_lede: spider.jpg
 wordpress_id: 1959
 tags: announcement, darktable release
+---
 
 After the progress reported in the [latest blog post]({filename}/blog/2012-08-14-bringing-current-darktable-to-os-x/2012-08-14-bringing-current-darktable-to-os-x.md) on the OS X port of darktable we now have something new for the Mac users:
 

@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2012-06-02 15:41:48+00:00
@@ -8,6 +9,7 @@ title: New screencasts for darktable 1.0
 wordpress_lede: Bildschirmfoto-vom-2012-06-02-182519.png
 wordpress_id: 1777
 tags: further reading
+---
 
 Pascal recorded some new screencasts using the latest stable version of darktable, 1.0.4.
 

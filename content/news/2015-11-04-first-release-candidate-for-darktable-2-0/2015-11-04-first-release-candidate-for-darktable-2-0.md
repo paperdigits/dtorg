@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-11-04 12:27:28+00:00
@@ -9,6 +10,7 @@ lede: nut_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3835
 tags: announcement, darktable release
+---
 
 We're proud to announce the first release candidate in the new feature release of darktable, 2.0~rc1.
 

@@ -1,3 +1,4 @@
+---
 author: pascalobry
 comments: true
 date: 2013-02-02 11:44:22+00:00
@@ -8,6 +9,7 @@ title: Importing Lightroom Development
 wordpress_lede: 2-lr-develop.jpg
 wordpress_id: 2692
 tags: blog, development, upcoming feature, import, Lighroom, XMP
+---
 
 One of the most time consuming work for any photographer is probably the development process. Lot of time behind a computer screen to adjust the curves, the contrast, the colors, the sharpness... All these are application specific, that is, the development process done with Lightroom is not compatible with AfterShot Pro or darktable (to name just few raw processing softwares around). This makes it really difficult to move from one software to another. The risk is loosing all the work done so far with a specific tool. After years, when the library contains some ten thousands pictures no one is ready for the switch.
 

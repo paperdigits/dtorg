@@ -1,3 +1,4 @@
+---
 author: houz
 comments: false
 date: 2015-06-09 11:54:22+00:00
@@ -9,6 +10,7 @@ lede: town_hall_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3697
 tags: announcement, darktable release
+---
 
 We are happy to announce that darktable 1.6.7 has been released.
 

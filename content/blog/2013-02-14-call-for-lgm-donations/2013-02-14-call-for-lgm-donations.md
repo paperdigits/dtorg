@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2013-02-14 21:55:46+00:00
@@ -9,6 +10,7 @@ lede: give_me_your_money_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 2737
 tags: community
+---
 
 Hello everyone,
 

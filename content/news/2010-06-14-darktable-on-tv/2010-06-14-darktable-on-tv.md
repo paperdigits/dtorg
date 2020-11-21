@@ -1,3 +1,4 @@
+---
 author: dt
 comments: true
 date: 2010-06-14 22:04:09+00:00
@@ -7,6 +8,7 @@ slug: darktable-on-tv
 title: darktable on tv :)
 wordpress_lede: grass.jpg
 wordpress_id: 213
+---
 
 no new release today, but some great videos about dt:
 

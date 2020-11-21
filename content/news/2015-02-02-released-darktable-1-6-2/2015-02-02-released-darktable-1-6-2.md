@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-02-02 22:27:22+00:00
@@ -8,6 +9,7 @@ title: released darktable 1.6.2
 wordpress_lede: waterwheel.jpg
 wordpress_id: 3534
 tags: announcement, darktable release
+---
 
 We are happy to announce that darktable 1.6.2 has been released.
 

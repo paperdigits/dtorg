@@ -1,3 +1,4 @@
+---
 author: Henrik Andersson
 comments: true
 date: 2011-03-28 22:08:40+00:00
@@ -7,6 +8,7 @@ slug: darktable-user-manual-revisited
 title: darktable user manual revisited
 wordpress_id: 457
 tags: development
+---
 
 <figure markdown="span" class="u-pull-left">@![usermanual](usermanual.jpg)</figure>
 

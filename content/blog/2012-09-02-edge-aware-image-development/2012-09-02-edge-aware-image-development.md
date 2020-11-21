@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2012-09-02 00:56:42+00:00
@@ -8,6 +9,7 @@ title: edge aware image development
 wordpress_lede: pink.jpg
 wordpress_id: 1908
 tags: blog, development, upcoming feature
+---
 
 in an ideal world, an image is piecewise smooth. it has soft gradients, some detail and edges. in particular there's no noise and the edges are sharp. given these assumptions, you can do a lot of cool things to your pictures, using techniques like frequency space editing, wavelets, or local histograms.
 

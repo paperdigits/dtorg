@@ -1,3 +1,4 @@
+---
 author: bieber
 comments: true
 date: 2011-06-06 21:33:37+00:00
@@ -7,6 +8,7 @@ slug: glade-removal-complete-moving-on-to-keyboard-accelerators
 title: Glade Removal Complete, Moving on to Keyboard Accelerators
 wordpress_id: 444
 tags: GSoC
+---
 
 As of last week, the removal of libglade from darktable is functionally complete. The gladefile has been deleted, along with all references to libglade in the code and the Cmake files. Some refactoring may still be ideal, and I’ll be rearranging some code in my free time, but the task is basically completed. Now it’s time to move on to handling keyboard shortcuts.
 

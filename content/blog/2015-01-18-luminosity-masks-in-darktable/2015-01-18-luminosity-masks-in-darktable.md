@@ -1,3 +1,4 @@
+---
 author: mueen
 comments: true
 date: 2015-01-18 20:43:58+00:00
@@ -8,6 +9,7 @@ title: Luminosity Masks in darktable
 lede: lmaskdtyellow_wide.jpg
 wordpress_id: 3473
 tags: blog
+---
 
 Pat David has a great [blog](https://blog.patdavid.net/) on photoediting in [GIMP](https://www.gimp.org/). I recently read his [post](https://blog.patdavid.net/2013/11/getting-around-in-gimp-luminosity-masks.html) on luminosity masks and was fairly impressed. Can darktable do something similar? Yes&nbsp;– they're a special case of [parametric masks](/usermanual/en/parametric_mask.html).
 

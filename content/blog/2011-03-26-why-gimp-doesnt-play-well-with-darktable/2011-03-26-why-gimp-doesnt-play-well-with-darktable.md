@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2011-03-26 22:11:10+00:00
@@ -8,6 +9,7 @@ title: Why GIMP doesn’t play well with darktable
 wordpress_lede: gimp.png
 wordpress_id: 460
 tags: development
+---
 
 Every now and then the question arises why we don’t have a button in darktable to open the current image in [GIMP](https://www.gimp.org/). Everytime I answer more or less the same.
 

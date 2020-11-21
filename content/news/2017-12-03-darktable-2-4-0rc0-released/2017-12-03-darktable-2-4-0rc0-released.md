@@ -1,3 +1,4 @@
+---
 author: houz
 date: 2017-12-03 15:23:00+00:00
 layout: post
@@ -6,6 +7,7 @@ title: darktable 2.4.0rc0 released
 lede: tit_lede.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 tags: announcement, darktable release
+---
 
 we're proud to announce the first release candidate for the upcoming 2.4 series of darktable, 2.4.0rc0!
 

@@ -1,3 +1,4 @@
+---
 author: upegelow
 comments: true
 date: 2016-03-10 17:48:29+00:00
@@ -9,6 +10,7 @@ lede: ashift_0_wide.jpg
 lede_author: Ulrich Pegelow
 wordpress_id: 3986
 tags: blog, development, upcoming feature, darktable, new feature, perspective correction
+---
 
 **Since many years darktable offers a versatile tool for manual perspective correction in the crop & rotate module [1]. Although the principle is simple and straightforward, there are cases where it can prove difficult to get a convincing correction, especially if no distinct vertical or horizontal features can be spotted in the image. To overcome these limitations a new “perspective correction” module has just been added that is able to automatically correct for converging lines. The underlying mechanism is inspired by the program ShiftN developed by Marcus Hebel and published under the GPL [2].**
 

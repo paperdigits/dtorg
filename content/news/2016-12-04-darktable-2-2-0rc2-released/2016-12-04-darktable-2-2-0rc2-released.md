@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-12-04 20:12:02+00:00
@@ -9,6 +10,7 @@ lede: castle4_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4625
 tags: announcement, darktable release
+---
 
 we're proud to announce the third release candidate of darktable 2.2.0, with some fixes over the previous release candidate.
 

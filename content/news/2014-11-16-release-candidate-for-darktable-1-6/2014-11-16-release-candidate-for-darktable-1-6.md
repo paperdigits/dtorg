@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2014-11-16 20:35:36+00:00
@@ -9,6 +10,7 @@ lede: 20110428_london_20110428_IMG_3966_01_small_wide.jpg
 lede_author: <a href="http://www.fourdimensions.eu/">Simon Spannagel</a>
 wordpress_id: 3421
 tags: announcement, darktable release
+---
 
 We are happy to announce the first release candidate for the upcoming darktable 1.6.
 

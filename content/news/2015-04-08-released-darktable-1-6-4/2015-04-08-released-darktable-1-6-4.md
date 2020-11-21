@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2015-04-08 16:06:26+00:00
@@ -8,6 +9,7 @@ title: released darktable 1.6.4
 wordpress_lede: thumb.jpg
 wordpress_id: 3644
 tags: darktable release
+---
 
 We are happy to announce that darktable 1.6.4 has been released.
 

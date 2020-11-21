@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2012-03-02 03:48:49+00:00
@@ -8,6 +9,7 @@ title: bauhaus widgets
 wordpress_lede: fibonacci.jpg
 wordpress_id: 1230
 tags: development
+---
 
 disclaimer: this is only to tease you and will not make it into the next release, but the one after ...
 

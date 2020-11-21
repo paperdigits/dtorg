@@ -1,3 +1,4 @@
+---
 author: jcsogo
 comments: true
 date: 2014-12-07 21:58:59+00:00
@@ -9,6 +10,7 @@ lede: dt_shirt_text_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3445
 tags: announcement, darktable release, '1.6', announcement, darktable, release
+---
 
 We are happy to announce that almost after one year darktable 1.6 has just been released.
 

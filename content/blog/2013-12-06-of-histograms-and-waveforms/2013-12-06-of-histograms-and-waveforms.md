@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2013-12-06 16:08:41+00:00
@@ -9,6 +10,7 @@ lede: rose_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3141
 tags: blog, upcoming feature
+---
 
 <figure markdown="span" role="group">
 @![The gradient test image](grey.png)

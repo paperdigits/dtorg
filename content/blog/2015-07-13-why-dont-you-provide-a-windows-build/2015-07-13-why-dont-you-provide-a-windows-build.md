@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2015-07-13 21:15:02+00:00
@@ -9,6 +10,7 @@ lede: windows_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3717
 tags: blog
+---
 
 Due to the heated debate lately, a short foreword:
 

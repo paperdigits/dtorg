@@ -1,3 +1,4 @@
+---
 author: pmjdebruijn
 comments: true
 date: 2012-10-23 20:12:25+00:00
@@ -8,6 +9,7 @@ title: What's involved with adding support for new cameras
 wordpress_lede: camera.jpg
 wordpress_id: 2300
 tags: blog
+---
 
 _Update: This post is a few years old by now, and while most things are still valid there is at least one change: darktable doesn't use dcraw/libraw and more._
 

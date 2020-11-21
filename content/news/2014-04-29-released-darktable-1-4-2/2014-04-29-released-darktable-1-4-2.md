@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2014-04-29 11:54:47+00:00
@@ -9,6 +10,7 @@ lede: dt_shirt_text_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3278
 tags: announcement, darktable release
+---
 
 Hello everyone,
 

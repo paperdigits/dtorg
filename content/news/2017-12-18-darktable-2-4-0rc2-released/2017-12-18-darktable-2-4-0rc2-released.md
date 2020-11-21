@@ -1,3 +1,4 @@
+---
 author: houz
 date: 2017-12-18 10:33:00+00:00
 layout: post
@@ -6,6 +7,7 @@ title: darktable 2.4.0rc2 released
 lede: lede.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 tags: announcement, darktable release
+---
 
 we're proud to announce the third release candidate for the upcoming 2.4 series of darktable, 2.4.0rc2!
 

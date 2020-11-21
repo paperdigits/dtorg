@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-02-03 20:45:27+00:00
@@ -9,6 +10,7 @@ lede: race_cars_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3945
 tags: announcement, darktable release
+---
 
 we're proud to announce the first bugfix release for the 2.0 series of darktable, 2.0.1!
 

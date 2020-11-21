@@ -1,3 +1,4 @@
+---
 author: bieber
 comments: true
 date: 2011-06-13 21:32:50+00:00
@@ -7,6 +8,7 @@ slug: the-state-of-darktable-keyboard-input
 title: The State of darktable Keyboard Input
 wordpress_id: 442
 tags: GSoC
+---
 
 
 

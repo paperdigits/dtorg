@@ -1,3 +1,4 @@
+---
 author: dt
 comments: true
 date: 2009-10-23 22:02:30+00:00
@@ -8,6 +9,7 @@ title: 0.3 beta released
 wordpress_lede: crowrock.jpg
 wordpress_id: 207
 tags: announcement, darktable release
+---
 
 there have been some major internal changes in dt since 0.2, and some of them result in cool new features for the user, so it is time to pass it on to the non-git audience. this includes:
 

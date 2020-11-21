@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2013-06-28 07:24:49+00:00
@@ -8,6 +9,7 @@ title: released darktable 1.2.2
 wordpress_lede: 3.jpg
 wordpress_id: 2955
 tags: announcement, darktable release
+---
 
 Dear all,
 

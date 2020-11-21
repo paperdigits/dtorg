@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2012-02-19 01:13:43+00:00
@@ -8,6 +9,7 @@ title: String freeze for darktable 1.0
 wordpress_lede: string_freeze.jpg
 wordpress_id: 1202
 tags: announcement
+---
 
 We are in string freeze for the master branch now. Translators might now update their translations for the upcoming release of
 

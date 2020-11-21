@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2012-02-02 05:31:06+00:00
@@ -9,6 +10,7 @@ lede: 00-output_wide.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 wordpress_id: 985
 tags: blog, color zones, highlights, monochrome, tutorial
+---
 
 ## or: how to rescue your shot after the fact.
 

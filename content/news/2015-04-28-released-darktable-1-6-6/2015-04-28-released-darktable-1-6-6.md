@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-04-28 11:35:02+00:00
@@ -9,6 +10,7 @@ lede: wheat_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3659
 tags: announcement, darktable release
+---
 
 We are happy to announce that darktable 1.6.6 has been released. Please note that the 1.6.5 release was broken so 1.6.6 was directly pushed out. Just pretend 1.6.5 had been skipped.
 

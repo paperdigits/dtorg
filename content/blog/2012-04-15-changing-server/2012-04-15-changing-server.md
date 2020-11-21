@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2012-04-15 09:56:44+00:00
@@ -8,6 +9,7 @@ title: Changing server [update]
 wordpress_lede: highway.jpg
 wordpress_id: 1459
 tags: announcement, website
+---
 
 We are about to move our website to a new server. This will give us a performance boost (e.g. in terms of page loading speed) and might give us the chance to provide some more services in the future.
 

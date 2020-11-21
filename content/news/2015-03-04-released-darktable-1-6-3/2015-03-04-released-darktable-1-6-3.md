@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-03-04 10:38:35+00:00
@@ -9,6 +10,7 @@ lede: speicherstadt_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3570
 tags: announcement, darktable release
+---
 
 We are happy to announce that darktable 1.6.3 has been released.
 

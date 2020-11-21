@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2013-12-26 14:25:12+00:00
@@ -9,6 +10,7 @@ lede: dt_wide.png
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3181
 tags: announcement, darktable release
+---
 
 merry christmas!
 

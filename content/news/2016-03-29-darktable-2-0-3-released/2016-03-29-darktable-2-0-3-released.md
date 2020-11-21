@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-03-29 12:17:20+00:00
@@ -9,6 +10,7 @@ lede: lake_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4021
 tags: announcement, darktable release
+---
 
 we're proud to announce the third bugfix release for the 2.0 series of darktable, 2.0.3!
 

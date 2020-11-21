@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2012-04-28 14:25:13+00:00
@@ -8,6 +9,7 @@ title: darktable 1.0.3 released
 wordpress_lede: tiny.jpg
 wordpress_id: 1486
 tags: announcement, darktable release, darktable, download, opensolaris, release, tarball
+---
 
 Pascal de Bruijn did some good work backporting some of the progress from git master to the 1.0 release. We packed that into a tarball, here it is:
 

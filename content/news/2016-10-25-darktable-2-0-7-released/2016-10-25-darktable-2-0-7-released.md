@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-10-25 10:45:02+00:00
@@ -9,6 +10,7 @@ lede: river_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4587
 tags: announcement, darktable release
+---
 
 we're proud to announce the seventh bugfix release for the 2.0 series of darktable, 2.0.7!
 

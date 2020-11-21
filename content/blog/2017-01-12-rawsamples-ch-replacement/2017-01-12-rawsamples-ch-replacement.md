@@ -1,3 +1,4 @@
+---
 author: LebedevRI
 comments: true
 date: 2017-01-12 17:57:27+00:00
@@ -9,6 +10,7 @@ lede: snowice-andabata.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 wordpress_id: 4694
 tags: announcement, blog, community, '@andabata', '@lebedevri', '@pixlsus', foss, photography, rawsamples
+---
 
 [Rawsamples.ch](https://rawsamples.ch) is a website with the goal to:
 

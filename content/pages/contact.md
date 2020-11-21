@@ -1,9 +1,11 @@
+---
 Title: contact
 Date: 2017-09-21T15:10:23-06:00
 author: smn
 wordpress_id: 124
 lede: lede-contact.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
+---
 
 # Find us on...
 

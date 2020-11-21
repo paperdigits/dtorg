@@ -1,3 +1,4 @@
+---
 author: LebedevRI
 comments: true
 date: 2016-10-10 10:30:24+00:00
@@ -8,6 +9,7 @@ title: Visualizing the raw (sensor) highlight clipping
 lede: rawprepare-lenscorrection-glitchart_wide.jpeg
 wordpress_id: 4239
 tags: blog, development, upcoming feature, color, highlights
+---
 
 Have you ever over-exposed your images? Have you ever noticed that your images look flat and dull after you apply negative exposure compensation? Even though the over/underexposed warning says there is no overexposure? Have you ever wondered what is going on? Read on.
 

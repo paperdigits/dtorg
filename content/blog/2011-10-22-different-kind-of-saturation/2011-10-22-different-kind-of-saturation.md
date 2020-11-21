@@ -1,3 +1,4 @@
+---
 author: Henrik Andersson
 comments: true
 date: 2011-10-22 21:08:53+00:00
@@ -8,6 +9,7 @@ title: different kind of saturation
 wordpress_lede: mushrooms_small.jpg
 wordpress_id: 806
 tags: blog, color, darktable, saturation, velvia, vibrance
+---
 
 **different kind of saturation**
 

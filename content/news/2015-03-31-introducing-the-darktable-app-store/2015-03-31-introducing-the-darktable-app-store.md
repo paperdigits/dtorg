@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-03-31 23:30:28+00:00
@@ -9,6 +10,7 @@ lede: hipsters_in_the_streets_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3630
 tags: announcement, blog, development, upcoming feature
+---
 
 Today we are happy to announce a big new feature that we will not only ship with the big 2.0 release later this year but also with our next point release, 1.6.4, which is due in about a week: even more darkroom modules!
 

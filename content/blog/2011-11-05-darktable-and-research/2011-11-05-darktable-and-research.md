@@ -1,3 +1,4 @@
+---
 author: jo
 comments: true
 date: 2011-11-05 04:20:06+00:00
@@ -8,6 +9,7 @@ title: darktable and research
 wordpress_lede: img_0001_22.jpg
 wordpress_id: 870
 tags: blog, development
+---
 
 you might have noticed our equalizer tool, and been confused by it and the many controls. that's probably partly because you didn't see a similar thing before, we had to develop it first.
 

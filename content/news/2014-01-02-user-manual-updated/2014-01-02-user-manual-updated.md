@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2014-01-02 15:08:28+00:00
@@ -9,6 +10,7 @@ lede: IMG_55722_wide.jpg
 lede_author: <a href="http://www.fourdimensions.eu/">Simon Spannagel</a>
 wordpress_id: 3205
 tags: website
+---
 
 Dear all,
 

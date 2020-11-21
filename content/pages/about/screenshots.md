@@ -1,3 +1,4 @@
+---
 Title: screenshots
 Slug: about/screenshots
 Date: 2017-09-20T14:56:21-06:00
@@ -5,6 +6,7 @@ author: smn
 wordpress_id: 116
 lede: lede-screenshots.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
+---
 
 Click on a image to get it in full resolution.
 

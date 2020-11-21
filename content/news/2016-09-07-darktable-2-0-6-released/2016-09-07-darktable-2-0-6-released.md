@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2016-09-07 17:44:52+00:00
@@ -9,6 +10,7 @@ lede: spider_wide.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 wordpress_id: 4226
 tags: announcement, darktable release
+---
 
 we're proud to announce the sixth bugfix release for the 2.0 series of darktable, 2.0.6!
 

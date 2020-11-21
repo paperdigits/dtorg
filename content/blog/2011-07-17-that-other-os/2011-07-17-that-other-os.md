@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2011-07-17 21:56:43+00:00
@@ -8,6 +9,7 @@ title: That other OS
 wordpress_lede: windoos.jpg
 wordpress_id: 321
 tags: development
+---
 
 The last time I posted to this blog it was my April Fool’s Joke about a file manager (which happened to be just an embedded shell). Since a few people didn’t like that at all I want to assure you that this is no joke at all. However, if you are a Windows user and feel easily offended, then stop reading now.
 

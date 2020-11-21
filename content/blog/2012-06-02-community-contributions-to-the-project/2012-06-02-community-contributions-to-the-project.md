@@ -1,3 +1,4 @@
+---
 author: smn
 comments: true
 date: 2012-06-02 15:57:15+00:00
@@ -8,6 +9,7 @@ title: Community contributions to the project
 wordpress_lede: IMG_6030_export.jpg
 wordpress_id: 1779
 tags: blog, community, community, contribution, forums, wiki
+---
 
 We heard quite some voices from users requesting better possibilities to contribute to the project. Here they are.
 

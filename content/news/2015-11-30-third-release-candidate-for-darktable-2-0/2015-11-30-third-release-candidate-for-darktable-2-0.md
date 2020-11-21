@@ -1,3 +1,4 @@
+---
 author: houz
 comments: true
 date: 2015-11-30 10:55:34+00:00
@@ -9,6 +10,7 @@ lede: autumn_path_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3883
 tags: announcement, darktable release
+---
 
 we're proud to announce the third release candidate in the new feature release of darktable, 2.0~rc3.
 

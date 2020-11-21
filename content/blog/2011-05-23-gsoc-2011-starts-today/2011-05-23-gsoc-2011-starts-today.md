@@ -1,3 +1,4 @@
+---
 author: dt
 comments: true
 date: 2011-05-23 21:36:18+00:00
@@ -7,6 +8,7 @@ slug: gsoc-2011-starts-today
 title: GSOC 2011 Starts Today
 wordpress_id: 451
 tags: GSoC
+---
 
 Today I’ll be starting on my Summer of Code project for darktable, so I thought I’d start off with a blog post about just what I’ll be doing. This Summer I’ll be focusing on UI improvements in darktable, and I have four separate tasks to complete, in this order.
 

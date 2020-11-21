@@ -1,3 +1,4 @@
+---
 author: upegelow
 comments: true
 date: 2012-03-05 18:36:43+00:00
@@ -8,6 +9,7 @@ title: Upcoming features: Conditional Blending
 wordpress_lede: IMG_1474_thumb.sm_.jpg
 wordpress_id: 1318
 tags: blog, development, upcoming feature, blending, color, conditional blending, darktable, halos, Lab, tone curves, tutorial
+---
 
 # or "If one slider is not enough"
 
