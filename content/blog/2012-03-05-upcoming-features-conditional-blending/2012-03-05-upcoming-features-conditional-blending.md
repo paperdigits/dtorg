@@ -5,7 +5,7 @@ date: 2012-03-05 18:36:43+00:00
 layout: post
 link: http://www.darktable.org/2012/03/upcoming-features-conditional-blending/
 slug: upcoming-features-conditional-blending
-title: Upcoming features: Conditional Blending
+title: "Upcoming features: Conditional Blending"
 wordpress_lede: IMG_1474_thumb.sm_.jpg
 wordpress_id: 1318
 tags: blog, development, upcoming feature, blending, color, conditional blending, darktable, halos, Lab, tone curves, tutorial

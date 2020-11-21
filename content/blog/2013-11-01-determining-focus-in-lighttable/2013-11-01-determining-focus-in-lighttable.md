@@ -5,7 +5,7 @@ date: 2013-11-01 16:50:01+00:00
 layout: post
 link: http://www.darktable.org/2013/11/determining-focus-in-lighttable/
 slug: determining-focus-in-lighttable
-title: determining focus in lighttable
+title: "determining focus in lighttable"
 lede: penguin_wide.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 wordpress_id: 3097

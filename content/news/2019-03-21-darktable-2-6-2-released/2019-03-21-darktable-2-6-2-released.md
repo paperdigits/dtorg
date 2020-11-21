@@ -2,7 +2,7 @@
 author: Pascal Obry
 date: 2019-03-21 18:44:00+00:00
 layout: post
-title: darktable 2.6.2 released
+title: "darktable 2.6.2 released"
 lede: dieppe.jpg
 lede_author: <a href="http://photos.obry.net">Pascal Obry</a>
 tags: announcement, darktable release

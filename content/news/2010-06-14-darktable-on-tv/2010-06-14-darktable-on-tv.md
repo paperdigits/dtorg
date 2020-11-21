@@ -5,7 +5,7 @@ date: 2010-06-14 22:04:09+00:00
 layout: post
 link: http://www.darktable.org/2010/06/darktable-on-tv/
 slug: darktable-on-tv
-title: darktable on tv :)
+title: "darktable on tv :)"
 wordpress_lede: grass.jpg
 wordpress_id: 213
 ---

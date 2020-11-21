@@ -5,7 +5,7 @@ date: 2015-03-04 10:38:35+00:00
 layout: post
 link: http://www.darktable.org/2015/03/released-darktable-1-6-3/
 slug: released-darktable-1-6-3
-title: released darktable 1.6.3
+title: "released darktable 1.6.3"
 lede: speicherstadt_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3570

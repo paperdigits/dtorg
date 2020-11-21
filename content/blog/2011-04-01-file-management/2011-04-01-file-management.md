@@ -5,7 +5,7 @@ date: 2011-04-01 22:06:55+00:00
 layout: post
 link: http://www.darktable.org/2011/04/file-management/
 slug: file-management
-title: File management
+title: "File management"
 wordpress_id: 453
 tags: development
 ---

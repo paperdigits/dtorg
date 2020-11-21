@@ -5,7 +5,7 @@ date: 2012-10-23 20:12:25+00:00
 layout: post
 link: http://www.darktable.org/2012/10/whats-involved-with-adding-support-for-new-cameras/
 slug: whats-involved-with-adding-support-for-new-cameras
-title: What's involved with adding support for new cameras
+title: "What's involved with adding support for new cameras"
 wordpress_lede: camera.jpg
 wordpress_id: 2300
 tags: blog

@@ -5,7 +5,7 @@ date: 2012-08-20 21:33:34+00:00
 layout: post
 link: http://www.darktable.org/2012/08/experimental-darktable-os-x-image/
 slug: experimental-darktable-os-x-image
-title: Experimental darktable OS X image
+title: "Experimental darktable OS X image"
 wordpress_lede: spider.jpg
 wordpress_id: 1959
 tags: announcement, darktable release

@@ -5,7 +5,7 @@ date: 2012-03-02 03:48:49+00:00
 layout: post
 link: http://www.darktable.org/2012/03/bauhaus-widgets/
 slug: bauhaus-widgets
-title: bauhaus widgets
+title: "bauhaus widgets"
 wordpress_lede: fibonacci.jpg
 wordpress_id: 1230
 tags: development

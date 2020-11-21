@@ -1,5 +1,5 @@
 ---
-title: a new website
+title: "a new website"
 author: patdavid
 date: 2017-12-21T11:02:54-06:00
 lede: Glades.jpg

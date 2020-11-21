@@ -5,7 +5,7 @@ date: 2015-02-01 16:17:33+00:00
 layout: post
 link: http://www.darktable.org/2015/02/released-darktable-1-6-1/
 slug: released-darktable-1-6-1
-title: released darktable 1.6.1
+title: "released darktable 1.6.1"
 lede: fireworks_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3530

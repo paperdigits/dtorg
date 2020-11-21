@@ -5,7 +5,7 @@ date: 2011-03-26 22:11:10+00:00
 layout: post
 link: http://www.darktable.org/2011/03/why-gimp-doesn%e2%80%99t-play-well-with-darktable/
 slug: why-gimp-doesnt-play-well-with-darktable
-title: Why GIMP doesn’t play well with darktable
+title: "Why GIMP doesn’t play well with darktable"
 wordpress_lede: gimp.png
 wordpress_id: 460
 tags: development

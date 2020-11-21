@@ -5,7 +5,7 @@ date: 2015-07-30 21:55:00+00:00
 layout: post
 link: http://www.darktable.org/2015/07/released-darktable-1-6-8/
 slug: released-darktable-1-6-8
-title: released darktable 1.6.8
+title: "released darktable 1.6.8"
 lede: dt-2_wide.jpg
 lede_author: <a href="https://tatica.org/en/">Tatica Leandro</a>
 wordpress_id: 3745

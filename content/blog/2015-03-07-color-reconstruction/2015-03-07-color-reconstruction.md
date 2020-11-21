@@ -5,7 +5,7 @@ date: 2015-03-07 20:13:22+00:00
 layout: post
 link: http://www.darktable.org/2015/03/color-reconstruction/
 slug: color-reconstruction
-title: Color Reconstruction
+title: "Color Reconstruction"
 lede: colorreconstruction_icon_wide.png
 wordpress_id: 3590
 tags: blog, development, upcoming feature, bilateral, color, color reconstruction, highlights, Lab, overexposed

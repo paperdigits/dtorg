@@ -5,7 +5,7 @@ date: 2012-03-15 07:53:25+00:00
 layout: post
 link: http://www.darktable.org/2012/03/darktable-1-0-released/
 slug: darktable-1-0-released
-title: darktable 1.0 released
+title: "darktable 1.0 released"
 wordpress_lede: 4.jpg
 wordpress_id: 1396
 tags: announcement, darktable release, darktable, release

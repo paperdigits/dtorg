@@ -5,7 +5,7 @@ date: 2009-08-19 22:01:13+00:00
 layout: post
 link: http://www.darktable.org/2009/08/we-now-have-a-mailinglist/
 slug: we-now-have-a-mailinglist
-title: we now have a mailinglist
+title: "we now have a mailinglist"
 wordpress_lede: mailinglist.jpg
 wordpress_id: 202
 ---

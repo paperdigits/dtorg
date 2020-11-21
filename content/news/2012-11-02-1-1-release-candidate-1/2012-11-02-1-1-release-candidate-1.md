@@ -5,7 +5,7 @@ date: 2012-11-02 02:04:00+00:00
 layout: post
 link: http://www.darktable.org/2012/11/1-1-release-candidate-1/
 slug: 1-1-release-candidate-1
-title: 1.1 release candidate 1
+title: "1.1 release candidate 1"
 wordpress_lede: cloud.jpg
 wordpress_id: 2328
 tags: announcement

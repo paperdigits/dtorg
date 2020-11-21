@@ -5,7 +5,7 @@ date: 2014-01-02 15:08:28+00:00
 layout: post
 link: http://www.darktable.org/2014/01/user-manual-updated/
 slug: user-manual-updated
-title: user manual updated
+title: "user manual updated"
 lede: IMG_55722_wide.jpg
 lede_author: <a href="http://www.fourdimensions.eu/">Simon Spannagel</a>
 wordpress_id: 3205

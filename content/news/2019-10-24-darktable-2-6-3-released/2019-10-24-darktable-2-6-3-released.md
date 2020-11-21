@@ -2,7 +2,7 @@
 author: Pascal Obry
 date: 2019-10-24 18:20:00+00:00
 layout: post
-title: darktable 2.6.3 released
+title: "darktable 2.6.3 released"
 lede: fecamp.jpg
 lede_author: <a href="http://photos.obry.net">Pascal Obry</a>
 tags: announcement, darktable release

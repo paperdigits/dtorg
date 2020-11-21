@@ -5,7 +5,7 @@ date: 2011-07-12 22:08:51+00:00
 layout: post
 link: http://www.darktable.org/2011/07/darktable-book-draft-v0-6-available/
 slug: darktable-book-draft-v0-6-available
-title: darktable book draft v0.6 available
+title: "darktable book draft v0.6 available"
 wordpress_lede: sun2.jpg
 wordpress_id: 229
 ---

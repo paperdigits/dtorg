@@ -5,7 +5,7 @@ date: 2017-01-02 16:56:56+00:00
 layout: post
 link: http://www.darktable.org/2017/01/darktable-2-2-1-released/
 slug: darktable-2-2-1-released
-title: darktable 2.2.1 released
+title: "darktable 2.2.1 released"
 wordpress_lede: owehar.png
 wordpress_id: 4664
 tags: announcement, darktable release

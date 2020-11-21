@@ -5,7 +5,7 @@ date: 2011-07-17 21:56:43+00:00
 layout: post
 link: http://www.darktable.org/2011/07/that-other-os/
 slug: that-other-os
-title: That other OS
+title: "That other OS"
 wordpress_lede: windoos.jpg
 wordpress_id: 321
 tags: development

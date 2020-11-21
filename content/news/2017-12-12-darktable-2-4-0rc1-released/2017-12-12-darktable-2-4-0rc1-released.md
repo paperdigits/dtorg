@@ -3,7 +3,7 @@ author: houz
 date: 2017-12-12 09:42:00+00:00
 layout: post
 slug: darktable-2-4-0rc1-released
-title: darktable 2.4.0rc1 released
+title: "darktable 2.4.0rc1 released"
 lede: snow_midget.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 tags: announcement, darktable release

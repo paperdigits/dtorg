@@ -1,5 +1,5 @@
 ---
-title: credits
+title: "credits"
 date: 2017-09-20T13:41:15-06:00
 lede: lede-credits.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>

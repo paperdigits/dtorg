@@ -5,7 +5,7 @@ date: 2014-02-04 13:09:13+00:00
 layout: post
 link: http://www.darktable.org/2014/02/libre-graphics-meeting-2014-in-leipzig-germany/
 slug: libre-graphics-meeting-2014-in-leipzig-germany
-title: Libre Graphics Meeting 2014 in Leipzig, Germany
+title: "Libre Graphics Meeting 2014 in Leipzig, Germany"
 lede: mark_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3232

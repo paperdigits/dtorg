@@ -5,7 +5,7 @@ date: 2011-07-30 21:22:56+00:00
 layout: post
 link: http://www.darktable.org/2011/07/introducing-the-levels-module/
 slug: introducing-the-levels-module
-title: Introducing The Levels Module
+title: "Introducing The Levels Module"
 wordpress_id: 426
 tags: GSoC
 ---

@@ -5,7 +5,7 @@ date: 2017-01-12 17:57:27+00:00
 layout: post
 link: http://www.darktable.org/2017/01/rawsamples-ch-replacement/
 slug: rawsamples-ch-replacement
-title: rawsamples.ch replacement
+title: "rawsamples.ch replacement"
 lede: snowice-andabata.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 wordpress_id: 4694

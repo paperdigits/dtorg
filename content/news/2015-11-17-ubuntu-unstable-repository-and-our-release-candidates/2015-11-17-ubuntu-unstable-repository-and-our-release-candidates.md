@@ -5,7 +5,7 @@ date: 2015-11-17 19:50:48+00:00
 layout: post
 link: http://www.darktable.org/2015/11/ubuntu-unstable-repository-and-our-release-candidates/
 slug: ubuntu-unstable-repository-and-our-release-candidates
-title: Ubuntu Unstable Repository and our Release Candidates
+title: "Ubuntu Unstable Repository and our Release Candidates"
 wordpress_lede: lumber.jpg
 wordpress_id: 3864
 ---

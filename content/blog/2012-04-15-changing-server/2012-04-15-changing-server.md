@@ -5,7 +5,7 @@ date: 2012-04-15 09:56:44+00:00
 layout: post
 link: http://www.darktable.org/2012/04/changing-server/
 slug: changing-server
-title: Changing server [update]
+title: "Changing server [update]"
 wordpress_lede: highway.jpg
 wordpress_id: 1459
 tags: announcement, website

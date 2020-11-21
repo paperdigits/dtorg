@@ -5,7 +5,7 @@ date: 2017-01-30 09:49:52+00:00
 layout: post
 link: http://www.darktable.org/2017/01/darktable-2-2-2-released/
 slug: darktable-2-2-2-released
-title: darktable 2.2.2 released
+title: "darktable 2.2.2 released"
 lede: pygmy_chameleon_wide.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 wordpress_id: 4727

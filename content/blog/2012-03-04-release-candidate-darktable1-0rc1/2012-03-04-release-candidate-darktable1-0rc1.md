@@ -5,7 +5,7 @@ date: 2012-03-04 08:46:51+00:00
 layout: post
 link: http://www.darktable.org/2012/03/release-candidate-darktable1-0rc1/
 slug: release-candidate-darktable1-0rc1
-title: Release Candidate darktable1.0~rc1
+title: "Release Candidate darktable1.0~rc1"
 wordpress_lede: img_0001_28.jpg
 wordpress_id: 1306
 tags: announcement, darktable release, candidate, release, tarball

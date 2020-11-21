@@ -5,7 +5,7 @@ date: 2011-06-06 21:33:37+00:00
 layout: post
 link: http://www.darktable.org/2011/06/glade-removal-complete-moving-on-to-keyboard-accelerators/
 slug: glade-removal-complete-moving-on-to-keyboard-accelerators
-title: Glade Removal Complete, Moving on to Keyboard Accelerators
+title: "Glade Removal Complete, Moving on to Keyboard Accelerators"
 wordpress_id: 444
 tags: GSoC
 ---

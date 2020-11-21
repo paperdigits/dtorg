@@ -5,7 +5,7 @@ date: 2012-01-31 10:26:45+00:00
 layout: post
 link: http://www.darktable.org/2012/01/interview-with-richard-hughes/
 slug: interview-with-richard-hughes
-title: Interview with Richard Hughes
+title: "Interview with Richard Hughes"
 wordpress_lede: colorhug1.jpg
 wordpress_id: 1017
 tags: further reading

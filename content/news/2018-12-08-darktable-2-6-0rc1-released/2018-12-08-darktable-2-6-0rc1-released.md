@@ -2,7 +2,7 @@
 author: Pascal Obry
 date: 2018-12-08 12:13:00+00:00
 layout: post
-title: darktable 2.6.0rc1 released
+title: "darktable 2.6.0rc1 released"
 lede: dieppe.jpg
 lede_author: <a href="http://photos.obry.net">Pascal Obry</a>
 tags: announcement, darktable release

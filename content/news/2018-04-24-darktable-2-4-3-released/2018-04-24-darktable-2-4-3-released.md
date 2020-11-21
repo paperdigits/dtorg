@@ -2,7 +2,7 @@
 author: houz
 date: 2018-04-24 12:00:00+00:00
 layout: post
-title: darktable 2.4.3 released
+title: "darktable 2.4.3 released"
 lede: dancer.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 tags: announcement, darktable release

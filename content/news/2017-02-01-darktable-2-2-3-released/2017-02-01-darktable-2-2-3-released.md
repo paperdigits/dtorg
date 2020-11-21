@@ -5,7 +5,7 @@ date: 2017-02-01 10:44:59+00:00
 layout: post
 link: http://www.darktable.org/2017/02/darktable-2-2-3-released/
 slug: darktable-2-2-3-released
-title: darktable 2.2.3 released
+title: "darktable 2.2.3 released"
 lede: turtle_wide.jpeg
 lede_author: <a href="https://www.flickr.com/photos/philipphaegi/">Philipp Haegi</a>
 wordpress_id: 4732

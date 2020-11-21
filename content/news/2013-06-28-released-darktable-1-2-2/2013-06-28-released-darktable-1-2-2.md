@@ -5,7 +5,7 @@ date: 2013-06-28 07:24:49+00:00
 layout: post
 link: http://www.darktable.org/2013/06/released-darktable-1-2-2/
 slug: released-darktable-1-2-2
-title: released darktable 1.2.2
+title: "released darktable 1.2.2"
 wordpress_lede: 3.jpg
 wordpress_id: 2955
 tags: announcement, darktable release

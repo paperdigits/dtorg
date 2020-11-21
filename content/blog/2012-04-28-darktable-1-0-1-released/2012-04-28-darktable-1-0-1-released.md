@@ -5,7 +5,7 @@ date: 2012-04-28 14:25:13+00:00
 layout: post
 link: http://www.darktable.org/2012/04/darktable-1-0-1-released/
 slug: darktable-1-0-1-released
-title: darktable 1.0.3 released
+title: "darktable 1.0.3 released"
 wordpress_lede: tiny.jpg
 wordpress_id: 1486
 tags: announcement, darktable release, darktable, download, opensolaris, release, tarball

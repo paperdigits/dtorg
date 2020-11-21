@@ -4,7 +4,7 @@ date: 2017-08-30 18:11:00+00:00
 layout: post
 link: http://www.darktable.org/2017/08/darktable-for-windows/
 slug: darktable-for-windows
-title: darktable for Windows
+title: "darktable for Windows"
 lede: horse_in_stable_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4788

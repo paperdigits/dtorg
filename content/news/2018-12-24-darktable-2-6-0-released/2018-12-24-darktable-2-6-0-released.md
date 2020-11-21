@@ -2,7 +2,7 @@
 author: Pascal Obry
 date: 2018-12-24 10:30:01+00:00
 layout: post
-title: darktable 2.6.0 released
+title: "darktable 2.6.0 released"
 slug: darktable-260-released
 lede: stquentin.jpg
 lede_author: <a href="http://photos.obry.net">Pascal Obry</a>

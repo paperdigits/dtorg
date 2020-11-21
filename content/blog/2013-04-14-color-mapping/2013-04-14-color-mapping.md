@@ -5,7 +5,7 @@ date: 2013-04-14 19:54:34+00:00
 layout: post
 link: http://www.darktable.org/2013/04/color-mapping/
 slug: color-mapping
-title: Color Mapping
+title: "Color Mapping"
 wordpress_lede: cm_featured.jpg
 lede_author: Ulrich Pegelow
 wordpress_id: 2853

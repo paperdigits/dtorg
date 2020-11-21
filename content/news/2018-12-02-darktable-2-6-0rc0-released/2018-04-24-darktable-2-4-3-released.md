@@ -2,7 +2,7 @@
 author: Pascal Obry
 date: 2018-12-03 20:03:00+00:00
 layout: post
-title: darktable 2.6.0rc0 released
+title: "darktable 2.6.0rc0 released"
 lede: etretat.jpg
 lede_author: <a href="http://photos.obry.net">Pascal Obry</a>
 tags: announcement, darktable release

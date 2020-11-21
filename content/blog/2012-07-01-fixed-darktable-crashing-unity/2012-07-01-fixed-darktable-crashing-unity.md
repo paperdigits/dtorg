@@ -5,7 +5,7 @@ date: 2012-07-01 13:45:16+00:00
 layout: post
 link: http://www.darktable.org/2012/07/fixed-darktable-crashing-unity/
 slug: fixed-darktable-crashing-unity
-title: Fixed: darktable crashing Unity
+title: "Fixed: darktable crashing Unity"
 wordpress_lede: SAM_1890.jpg
 wordpress_id: 1813
 tags: announcement, ubuntu, unity

@@ -5,7 +5,7 @@ date: 2012-07-05 14:13:10+00:00
 layout: post
 link: http://www.darktable.org/2012/07/exporting-images-on-the-command-line/
 slug: exporting-images-on-the-command-line
-title: Exporting images on the command line
+title: "Exporting images on the command line"
 lede: dtcli_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 1837

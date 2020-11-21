@@ -5,7 +5,7 @@ date: 2015-04-28 11:35:02+00:00
 layout: post
 link: http://www.darktable.org/2015/04/released-darktable-1-6-6/
 slug: released-darktable-1-6-6
-title: released darktable 1.6.6
+title: "released darktable 1.6.6"
 lede: wheat_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3659

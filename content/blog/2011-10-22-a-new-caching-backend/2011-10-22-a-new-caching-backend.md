@@ -5,7 +5,7 @@ date: 2011-10-22 06:31:42+00:00
 layout: post
 link: http://www.darktable.org/2011/10/a-new-caching-backend/
 slug: a-new-caching-backend
-title: a new caching backend
+title: "a new caching backend"
 wordpress_lede: cache.jpg
 wordpress_id: 774
 tags: blog, development

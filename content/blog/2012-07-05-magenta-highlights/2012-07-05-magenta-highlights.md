@@ -5,7 +5,7 @@ date: 2012-07-05 15:51:08+00:00
 layout: post
 link: http://www.darktable.org/2012/07/magenta-highlights/
 slug: magenta-highlights
-title: magenta highlights
+title: "magenta highlights"
 wordpress_lede: highlights.jpg
 wordpress_id: 1828
 tags: blog

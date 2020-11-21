@@ -5,7 +5,7 @@ date: 2012-02-17 20:21:49+00:00
 layout: post
 link: http://www.darktable.org/2012/02/shadow-recovery-revisited/
 slug: shadow-recovery-revisited
-title: Shadow recovery revisited
+title: "Shadow recovery revisited"
 wordpress_lede: sh-thumb.sm_.jpg
 wordpress_id: 1175
 tags: blog, development, darktable, highlights, shadow recovery, tutorial

@@ -5,7 +5,7 @@ date: 2012-07-11 17:08:50+00:00
 layout: post
 link: http://www.darktable.org/2012/07/some-enhancements-to-conditional-blending/
 slug: some-enhancements-to-conditional-blending
-title: Some enhancements to conditional blending
+title: "Some enhancements to conditional blending"
 lede: IMG_4287x_0004_wide.jpg
 lede_author: Ulrich Pegelow
 wordpress_id: 1862

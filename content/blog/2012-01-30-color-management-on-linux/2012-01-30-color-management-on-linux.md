@@ -5,7 +5,7 @@ date: 2012-01-30 10:42:57+00:00
 layout: post
 link: http://www.darktable.org/2012/01/color-management-on-linux/
 slug: color-management-on-linux
-title: Color Management On Linux
+title: "Color Management On Linux"
 wordpress_lede: img_0001_29.jpg
 wordpress_id: 996
 tags: further reading

@@ -5,7 +5,7 @@ date: 2012-03-02 20:29:00+00:00
 layout: post
 link: http://www.darktable.org/2012/03/darktable-and-opencl/
 slug: darktable-and-opencl
-title: darktable and OpenCL (updated)
+title: "darktable and OpenCL (updated)"
 wordpress_lede: ocl-menu-thumb.jpeg
 wordpress_id: 1279
 tags: blog, development, darktable, OpenCL, tutorial

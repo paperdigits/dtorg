@@ -5,7 +5,7 @@ date: 2013-09-13 12:19:52+00:00
 layout: post
 link: http://www.darktable.org/2013/09/released-darktable-1-2-3/
 slug: released-darktable-1-2-3
-title: released darktable 1.2.3
+title: "released darktable 1.2.3"
 lede: ginko_01_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3014

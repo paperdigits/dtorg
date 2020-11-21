@@ -5,7 +5,7 @@ date: 2012-02-13 19:50:28+00:00
 layout: post
 link: http://www.darktable.org/2012/02/using-lowpass-filter-to-recover-shadows/
 slug: using-lowpass-filter-to-recover-shadows
-title: Using lowpass filter to recover shadows
+title: "Using lowpass filter to recover shadows"
 wordpress_lede: lp-thumb.jpg
 wordpress_id: 1131
 tags: blog, development, darktable, highlights, lowpass, shadow recovery, tone curves, tutorial

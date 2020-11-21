@@ -5,7 +5,7 @@ date: 2011-08-17 12:27:25+00:00
 layout: post
 link: http://www.darktable.org/2011/08/darktable-book-final-draft-release/
 slug: darktable-book-final-draft-release
-title: darktable book final draft release
+title: "darktable book final draft release"
 wordpress_lede: moon.jpg
 wordpress_id: 259
 ---

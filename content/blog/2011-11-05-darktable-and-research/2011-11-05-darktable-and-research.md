@@ -5,7 +5,7 @@ date: 2011-11-05 04:20:06+00:00
 layout: post
 link: http://www.darktable.org/2011/11/darktable-and-research/
 slug: darktable-and-research
-title: darktable and research
+title: "darktable and research"
 wordpress_lede: img_0001_22.jpg
 wordpress_id: 870
 tags: blog, development

@@ -5,7 +5,7 @@ date: 2015-10-14 08:44:47+00:00
 layout: post
 link: http://www.darktable.org/2015/10/feature-freeze-darktable-2-0/
 slug: feature-freeze-darktable-2-0
-title: Feature Freeze darktable 2.0
+title: "Feature Freeze darktable 2.0"
 wordpress_lede: flower.jpg
 wordpress_id: 3810
 ---

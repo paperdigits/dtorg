@@ -5,7 +5,7 @@ date: 2011-06-25 21:15:19+00:00
 layout: post
 link: http://www.darktable.org/2011/06/darktable%e2%80%99s-new-keyboard-shortcut-system/
 slug: darktables-new-keyboard-shortcut-system
-title: darktable’s New Keyboard Shortcut System
+title: "darktable’s New Keyboard Shortcut System"
 wordpress_id: 420
 tags: GSoC
 ---

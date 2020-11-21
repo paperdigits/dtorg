@@ -5,7 +5,7 @@ date: 2012-09-02 00:56:42+00:00
 layout: post
 link: http://www.darktable.org/2012/09/edge-aware-image-development/
 slug: edge-aware-image-development
-title: edge aware image development
+title: "edge aware image development"
 wordpress_lede: pink.jpg
 wordpress_id: 1908
 tags: blog, development, upcoming feature

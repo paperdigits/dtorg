@@ -2,7 +2,7 @@
 author: houz
 date: 2018-03-27 18:00:00+00:00
 layout: post
-title: darktable 2.4.2 released
+title: "darktable 2.4.2 released"
 lede: india.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 tags: announcement, darktable release

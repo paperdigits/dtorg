@@ -5,7 +5,7 @@ date: 2013-07-30 11:53:16+00:00
 layout: post
 link: http://www.darktable.org/2013/07/have-your-lens-calibrated/
 slug: have-your-lens-calibrated
-title: have your lens calibrated!
+title: "have your lens calibrated!"
 wordpress_lede: lens.jpg
 wordpress_id: 2984
 tags: announcement, website

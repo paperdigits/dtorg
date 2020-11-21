@@ -5,7 +5,7 @@ date: 2010-06-28 22:04:51+00:00
 layout: post
 link: http://www.darktable.org/2010/06/enhancing-color-management/
 slug: enhancing-color-management
-title: enhancing color management
+title: "enhancing color management"
 wordpress_lede: chart.jpg
 wordpress_id: 215
 ---

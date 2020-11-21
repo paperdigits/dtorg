@@ -5,7 +5,7 @@ date: 2009-10-23 22:02:30+00:00
 layout: post
 link: http://www.darktable.org/2009/10/0-3-beta-released/
 slug: 0-3-beta-released
-title: 0.3 beta released
+title: "0.3 beta released"
 wordpress_lede: crowrock.jpg
 wordpress_id: 207
 tags: announcement, darktable release

@@ -5,7 +5,7 @@ date: 2012-03-10 00:57:50+00:00
 layout: post
 link: http://www.darktable.org/2012/03/second-release-candidate-dt1-0rc2/
 slug: second-release-candidate-dt1-0rc2
-title: Second release candidate dt1.0~rc2
+title: "Second release candidate dt1.0~rc2"
 wordpress_lede: IMG_5561_export_01.jpg
 wordpress_id: 1361
 tags: announcement, darktable release, darktable, download, release candidate, tarball

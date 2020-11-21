@@ -5,7 +5,7 @@ date: 2012-06-02 15:57:15+00:00
 layout: post
 link: http://www.darktable.org/2012/06/community-contributions-to-the-project/
 slug: community-contributions-to-the-project
-title: Community contributions to the project
+title: "Community contributions to the project"
 wordpress_lede: IMG_6030_export.jpg
 wordpress_id: 1779
 tags: blog, community, community, contribution, forums, wiki

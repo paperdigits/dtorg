@@ -5,7 +5,7 @@ date: 2015-12-24 10:46:37+00:00
 layout: post
 link: http://www.darktable.org/2015/12/darktable-2-0-released/
 slug: darktable-2-0-released
-title: darktable 2.0 released
+title: "darktable 2.0 released"
 wordpress_lede: Christmas_Moon.jpg
 wordpress_id: 3912
 tags: announcement, darktable release

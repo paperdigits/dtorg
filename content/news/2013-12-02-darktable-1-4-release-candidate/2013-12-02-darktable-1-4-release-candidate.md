@@ -5,7 +5,7 @@ date: 2013-12-02 09:50:21+00:00
 layout: post
 link: http://www.darktable.org/2013/12/darktable-1-4-release-candidate/
 slug: darktable-1-4-release-candidate
-title: darktable 1.4 release candidate
+title: "darktable 1.4 release candidate"
 wordpress_lede: oasis.png
 wordpress_id: 3133
 tags: announcement, darktable release

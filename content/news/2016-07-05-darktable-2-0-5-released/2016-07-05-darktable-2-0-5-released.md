@@ -5,7 +5,7 @@ date: 2016-07-05 09:36:30+00:00
 layout: post
 link: http://www.darktable.org/2016/07/darktable-2-0-5-released/
 slug: darktable-2-0-5-released
-title: darktable 2.0.5 released
+title: "darktable 2.0.5 released"
 lede: landscape_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4155

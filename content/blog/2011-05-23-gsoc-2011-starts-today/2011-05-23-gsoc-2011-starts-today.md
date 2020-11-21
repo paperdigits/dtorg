@@ -5,7 +5,7 @@ date: 2011-05-23 21:36:18+00:00
 layout: post
 link: http://www.darktable.org/2011/05/gsoc-2011-starts-today/
 slug: gsoc-2011-starts-today
-title: GSOC 2011 Starts Today
+title: "GSOC 2011 Starts Today"
 wordpress_id: 451
 tags: GSoC
 ---

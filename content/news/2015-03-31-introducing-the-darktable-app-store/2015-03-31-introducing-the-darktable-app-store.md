@@ -5,7 +5,7 @@ date: 2015-03-31 23:30:28+00:00
 layout: post
 link: http://www.darktable.org/2015/04/introducing-the-darktable-app-store/
 slug: introducing-the-darktable-app-store
-title: Introducing the darktable app store
+title: "Introducing the darktable app store"
 lede: hipsters_in_the_streets_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3630

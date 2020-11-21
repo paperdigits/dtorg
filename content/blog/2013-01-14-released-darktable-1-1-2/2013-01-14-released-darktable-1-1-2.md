@@ -5,7 +5,7 @@ date: 2013-01-14 23:24:16+00:00
 layout: post
 link: http://www.darktable.org/2013/01/released-darktable-1-1-2/
 slug: released-darktable-1-1-2
-title: Released darktable 1.1.2
+title: "Released darktable 1.1.2"
 wordpress_lede: flamingos.png
 wordpress_id: 2671
 tags: announcement, darktable release

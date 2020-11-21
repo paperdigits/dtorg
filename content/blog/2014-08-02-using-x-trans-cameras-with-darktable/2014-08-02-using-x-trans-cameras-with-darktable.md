@@ -5,7 +5,7 @@ date: 2014-08-02 08:24:01+00:00
 layout: post
 link: http://www.darktable.org/2014/08/using-x-trans-cameras-with-darktable/
 slug: using-x-trans-cameras-with-darktable
-title: Using X-Trans cameras with darktable
+title: "Using X-Trans cameras with darktable"
 lede: xtrans_21_wide.png
 wordpress_id: 3334
 tags: blog, development, upcoming feature, darktable, demosaicing, dynamic range, fujifilm, interpolation, x-trans

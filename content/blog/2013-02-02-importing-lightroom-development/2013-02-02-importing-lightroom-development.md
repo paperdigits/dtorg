@@ -5,7 +5,7 @@ date: 2013-02-02 11:44:22+00:00
 layout: post
 link: http://www.darktable.org/2013/02/importing-lightroom-development/
 slug: importing-lightroom-development
-title: Importing Lightroom Development
+title: "Importing Lightroom Development"
 wordpress_lede: 2-lr-develop.jpg
 wordpress_id: 2692
 tags: blog, development, upcoming feature, import, Lighroom, XMP

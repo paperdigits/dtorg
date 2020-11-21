@@ -5,7 +5,7 @@ date: 2012-02-12 14:38:25+00:00
 layout: post
 link: http://www.darktable.org/2012/02/mastering-color-with-lab-tone-curves/
 slug: mastering-color-with-lab-tone-curves
-title: Mastering color with Lab tone curves
+title: "Mastering color with Lab tone curves"
 wordpress_lede: tc2-thumbnail.sm_.jpg
 wordpress_id: 1098
 tags: blog, development, color, darktable, Lab, saturation, tone curves, tutorial

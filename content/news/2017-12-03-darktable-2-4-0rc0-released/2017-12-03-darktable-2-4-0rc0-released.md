@@ -3,7 +3,7 @@ author: houz
 date: 2017-12-03 15:23:00+00:00
 layout: post
 slug: darktable-2-4-0rc0-released
-title: darktable 2.4.0rc0 released
+title: "darktable 2.4.0rc0 released"
 lede: tit_lede.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 tags: announcement, darktable release

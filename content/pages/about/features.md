@@ -1,5 +1,5 @@
 ---
-title: features
+title: "features"
 date: 2017-06-13T21:58:51-06:00
 slug: about/features
 lede: lede-features.jpg

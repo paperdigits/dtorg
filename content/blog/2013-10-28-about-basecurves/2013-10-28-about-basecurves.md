@@ -5,7 +5,7 @@ date: 2013-10-28 20:56:40+00:00
 layout: post
 link: http://www.darktable.org/2013/10/about-basecurves/
 slug: about-basecurves
-title: about basecurves
+title: "about basecurves"
 wordpress_lede: basecurve-0.png
 wordpress_id: 3065
 tags: blog, further reading

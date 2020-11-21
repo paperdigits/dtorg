@@ -5,7 +5,7 @@ date: 2012-06-04 00:13:47+00:00
 layout: post
 link: http://www.darktable.org/2012/06/darktable-1-0-4-released/
 slug: darktable-1-0-4-released
-title: darktable 1.0.4 released
+title: "darktable 1.0.4 released"
 wordpress_lede: 20110428_IMG_3966_export.jpg
 wordpress_id: 1794
 tags: announcement, darktable release

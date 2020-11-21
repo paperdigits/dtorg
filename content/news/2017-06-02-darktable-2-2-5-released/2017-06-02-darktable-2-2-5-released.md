@@ -4,7 +4,7 @@ date: 2017-06-02 06:55:00+00:00
 layout: post
 link: http://www.darktable.org/2017/06/darktable-2-2-5-released/
 slug: darktable-2-2-5-released
-title: darktable 2.2.5 released
+title: "darktable 2.2.5 released"
 lede: train_station_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4777

@@ -5,7 +5,7 @@ date: 2016-09-07 17:44:52+00:00
 layout: post
 link: http://www.darktable.org/2016/09/darktable-2-0-6-released/
 slug: darktable-2-0-6-released
-title: darktable 2.0.6 released
+title: "darktable 2.0.6 released"
 lede: spider_wide.jpg
 lede_author: <a href="https://www.flickr.com/photos/andabata">Kees Guequierre</a>
 wordpress_id: 4226

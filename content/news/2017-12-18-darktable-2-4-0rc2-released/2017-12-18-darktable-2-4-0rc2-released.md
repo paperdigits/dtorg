@@ -3,7 +3,7 @@ author: houz
 date: 2017-12-18 10:33:00+00:00
 layout: post
 slug: darktable-2-4-0rc2-released
-title: darktable 2.4.0rc2 released
+title: "darktable 2.4.0rc2 released"
 lede: lede.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 tags: announcement, darktable release

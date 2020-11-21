@@ -5,7 +5,7 @@ date: 2011-07-19 21:25:12+00:00
 layout: post
 link: http://www.darktable.org/2011/07/a-tour-of-the-new-colorpicker/
 slug: a-tour-of-the-new-colorpicker
-title: A Tour Of The New Colorpicker
+title: "A Tour Of The New Colorpicker"
 wordpress_id: 432
 tags: GSoC
 ---

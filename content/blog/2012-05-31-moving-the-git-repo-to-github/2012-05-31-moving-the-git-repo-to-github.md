@@ -5,7 +5,7 @@ date: 2012-05-31 13:24:17+00:00
 layout: post
 link: http://www.darktable.org/2012/05/moving-the-git-repo-to-github/
 slug: moving-the-git-repo-to-github
-title: Moving the git repo to github [done]
+title: "Moving the git repo to github [done]"
 wordpress_lede: IMG_5841_export_01.jpg
 wordpress_id: 1707
 tags: announcement, infrastructure, darktable, download, fork, git, github, move, remote, repository

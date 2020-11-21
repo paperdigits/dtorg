@@ -5,7 +5,7 @@ date: 2013-05-10 17:47:54+00:00
 layout: post
 link: http://www.darktable.org/2013/05/display-color-management-in-darktable/
 slug: display-color-management-in-darktable
-title: Display color management in darktable
+title: "Display color management in darktable"
 wordpress_lede: lego_doctor.jpg
 wordpress_id: 2908
 tags: blog

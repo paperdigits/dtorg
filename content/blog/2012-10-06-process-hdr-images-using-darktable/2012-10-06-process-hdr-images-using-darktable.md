@@ -5,7 +5,7 @@ date: 2012-10-06 17:16:03+00:00
 layout: post
 link: http://www.darktable.org/2012/10/process-hdr-images-using-darktable/
 slug: process-hdr-images-using-darktable
-title: Process HDR images using darktable.
+title: "Process HDR images using darktable."
 wordpress_lede: img_0001.jpg
 wordpress_id: 2193
 tags: blog, HDR, processing, workflow

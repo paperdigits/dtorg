@@ -5,7 +5,7 @@ date: 2013-02-15 20:43:45+00:00
 layout: post
 link: http://www.darktable.org/2013/02/multi-instances/
 slug: multi-instances
-title: multi-instances
+title: "multi-instances"
 wordpress_lede: mi_screen_gnd.jpg
 wordpress_id: 2752
 tags: blog, development, upcoming feature

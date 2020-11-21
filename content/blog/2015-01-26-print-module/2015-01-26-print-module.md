@@ -5,7 +5,7 @@ date: 2015-01-26 21:01:25+00:00
 layout: post
 link: http://www.darktable.org/2015/01/print-module/
 slug: print-module
-title: Print Module
+title: "Print Module"
 wordpress_lede: dt-print-settingsv2.jpg
 wordpress_id: 3507
 tags: upcoming feature

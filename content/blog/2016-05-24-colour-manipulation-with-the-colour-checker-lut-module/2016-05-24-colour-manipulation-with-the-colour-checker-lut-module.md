@@ -5,7 +5,7 @@ date: 2016-05-24 13:49:13+00:00
 layout: post
 link: http://www.darktable.org/2016/05/colour-manipulation-with-the-colour-checker-lut-module/
 slug: colour-manipulation-with-the-colour-checker-lut-module
-title: colour manipulation with the colour checker lut module
+title: "colour manipulation with the colour checker lut module"
 wordpress_lede: teaser.jpg
 wordpress_id: 4064
 tags: blog, development, further reading, upcoming feature

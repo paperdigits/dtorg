@@ -5,7 +5,7 @@ date: 2010-10-26 22:06:05+00:00
 layout: post
 link: http://www.darktable.org/2010/10/draft-usermanual/
 slug: draft-usermanual
-title: draft usermanual
+title: "draft usermanual"
 wordpress_lede: see.jpg
 wordpress_id: 219
 ---

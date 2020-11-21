@@ -5,7 +5,7 @@ date: 2015-11-30 10:55:34+00:00
 layout: post
 link: http://www.darktable.org/2015/11/third-release-candidate-for-darktable-2-0/
 slug: third-release-candidate-for-darktable-2-0
-title: third release candidate for darktable 2.0 & string freeze
+title: "third release candidate for darktable 2.0 & string freeze"
 lede: autumn_path_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 3883

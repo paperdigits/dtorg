@@ -5,7 +5,7 @@ date: 2012-12-11 06:48:50+00:00
 layout: post
 link: http://www.darktable.org/2012/12/profiling-sensor-and-photon-noise/
 slug: profiling-sensor-and-photon-noise
-title: profiling sensor and photon noise
+title: "profiling sensor and photon noise"
 wordpress_lede: denoise_teaser.jpg
 wordpress_id: 2368
 tags: blog, development, upcoming feature

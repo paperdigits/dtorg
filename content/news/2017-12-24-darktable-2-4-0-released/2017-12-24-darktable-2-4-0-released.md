@@ -2,7 +2,7 @@
 author: houz
 date: 2017-12-24 10:08:00+00:00
 layout: post
-title: darktable 2.4.0 released
+title: "darktable 2.4.0 released"
 lede: shore.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 tags: announcement, darktable release

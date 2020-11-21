@@ -5,7 +5,7 @@ date: 2012-02-19 01:13:43+00:00
 layout: post
 link: http://www.darktable.org/2012/02/string-freeze-for-darktable-1-0/
 slug: string-freeze-for-darktable-1-0
-title: String freeze for darktable 1.0
+title: "String freeze for darktable 1.0"
 wordpress_lede: string_freeze.jpg
 wordpress_id: 1202
 tags: announcement

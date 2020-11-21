@@ -5,7 +5,7 @@ date: 2017-04-06 18:33:08+00:00
 layout: post
 link: http://www.darktable.org/2017/04/darktable-2-2-4-released/
 slug: darktable-2-2-4-released
-title: darktable 2.2.4 released
+title: "darktable 2.2.4 released"
 lede: thistels_wide.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 wordpress_id: 4757

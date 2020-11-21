@@ -5,7 +5,7 @@ date: 2012-08-14 19:44:11+00:00
 layout: post
 link: http://www.darktable.org/2012/08/bringing-current-darktable-to-os-x/
 slug: bringing-current-darktable-to-os-x
-title: Bringing current darktable to OS X
+title: "Bringing current darktable to OS X"
 wordpress_lede: dtonosx.png
 wordpress_id: 1918
 tags: blog, development, bugfixes, darktable, git, macports, os x
