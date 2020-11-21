@@ -1,7 +1,7 @@
 ---
-Title: camera support
-Slug: resources/camera-support
-Date: 2017-09-21T14:00:56-06:00
+title: camera support
+slug: resources/camera-support
+date: 2017-09-21T14:00:56-06:00
 author: pedrocr
 wordpress_id: 3676
 lede: lede-camera-support.jpg

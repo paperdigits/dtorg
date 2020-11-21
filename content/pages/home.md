@@ -1,8 +1,8 @@
 ---
-Title: darktable
-Date: 2017-06-02T08:59:27-06:00
+title: darktable
+date: 2017-06-02T08:59:27-06:00
 template: home
-URL:
+url:
 save_as: index.html
 ---
 

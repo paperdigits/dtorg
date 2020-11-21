@@ -1,6 +1,6 @@
 ---
-Title: development
-Date: 2017-09-21T14:55:35-06:00
+title: development
+date: 2017-09-21T14:55:35-06:00
 author: smn
 wordpress_id: 404
 lede: lede-development.jpg

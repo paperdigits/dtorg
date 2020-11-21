@@ -1,6 +1,6 @@
 ---
-Title: install
-Date: 2017-09-20T16:48:38-06:00
+title: install
+date: 2017-09-20T16:48:38-06:00
 author: smn
 wordpress_id: 118
 lede: lede-install.jpg

@@ -1,7 +1,7 @@
 ---
-Title: faq
-Slug: about/faq
-Date: 2017-09-20T16:18:43-06:00
+title: faq
+slug: about/faq
+date: 2017-09-20T16:18:43-06:00
 author: smn
 wordpress_id: 1536
 lede: lede-faq.jpg

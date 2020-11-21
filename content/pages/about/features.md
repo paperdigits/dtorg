@@ -1,7 +1,7 @@
 ---
-Title: features
-Date: 2017-06-13T21:58:51-06:00
-Slug: about/features
+title: features
+date: 2017-06-13T21:58:51-06:00
+slug: about/features
 lede: lede-features.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 ---

@@ -1,6 +1,6 @@
 ---
-Title: resources
-Date: 2017-09-21T13:43:33-06:00
+title: resources
+date: 2017-09-21T13:43:33-06:00
 author: smn
 wordpress_id: 120
 lede: lede-resources.jpg

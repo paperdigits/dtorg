@@ -1,6 +1,6 @@
 ---
-Title: about
-Date: 2017-05-23T15:16:37-06:00
+title: about
+date: 2017-05-23T15:16:37-06:00
 lede: lede-about.jpg
 lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
 ---

@@ -1,7 +1,7 @@
 ---
-Title: screenshots
-Slug: about/screenshots
-Date: 2017-09-20T14:56:21-06:00
+title: screenshots
+slug: about/screenshots
+date: 2017-09-20T14:56:21-06:00
 author: smn
 wordpress_id: 116
 lede: lede-screenshots.jpg
