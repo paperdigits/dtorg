@@ -1,6 +1,5 @@
 ---
 title: "screenshots"
-slug: about/screenshots
 date: 2017-09-20T14:56:21-06:00
 author: smn
 wordpress_id: 116

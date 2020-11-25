@@ -1,6 +1,5 @@
 ---
 title: "camera support"
-slug: resources/camera-support
 date: 2017-09-21T14:00:56-06:00
 author: pedrocr
 wordpress_id: 3676

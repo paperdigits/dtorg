@@ -2,7 +2,6 @@
 title: "meta"
 date: 2017-06-16T13:50:27-06:00
 author: Pat David
-slug: about/meta
 lede: lede-meta.jpg
 lede_author: <a href="https://houz.org/">houz</a>
 ---

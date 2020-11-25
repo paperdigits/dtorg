@@ -1,6 +1,5 @@
 ---
 title: "faq"
-slug: about/faq
 date: 2017-09-20T16:18:43-06:00
 author: smn
 wordpress_id: 1536
@@ -30,10 +29,10 @@ lede_author: <a href="https://jo.dreggn.org/home/">jo</a>
         * then add the following line on the beginning of the created css file: `@import url("/path/to/darktable.css");`, where the `/path/to/darktable.css` is the path... to the default darktable CSS (or one of the other themes you want to edit).
         * last step is to copy parts of the pointed css you want to edit and adjust settings as you want.
     * Be aware: darktable 3.0 brings a whole new UI, so 3.0 CSS themes are not compatible with previous releases, and previous 2.4 and 2.6 themes are not compatible with darktable 3.0.
-    
+
     Since darktable 3.2, released in august 2020, tweak CSS is far more easier. Forget steps describe just above for that and just go in preferences window. See first general tab and: just select your theme, check _modify selected theme with tweaks below_ and add your tweaks in text field below, then save your tweaks. That's all!
-    
-    By the way, CSS file should be easier to read and lot of comments will help you find faster CSS part you want to tweak and so copy/modify in preferences. 
+
+    By the way, CSS file should be easier to read and lot of comments will help you find faster CSS part you want to tweak and so copy/modify in preferences.
 
 * <a name="faq-rename-files"></a>**How do I rename files on my hard disk?**<a href="#faq-rename-files" class="anchor" title="Link to this FAQ entry">¶</a>
 
